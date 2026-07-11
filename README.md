@@ -180,7 +180,7 @@ usaid/
 
 ## 🔑 Environment Variables
 
-### Server (`/server/.env` )
+### Server (`/server/.env`)
 
 | Variable | Description |
 |----------|-------------|
