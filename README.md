@@ -3,7 +3,7 @@
 </p>
 
 # 🔮 Usaid - AI-Driven Cognitive Time Simulator
-
+ 
 > **Experience the future before you choose it**
 
 Usaid is an AI-powered decision-making tool that simulates multiple future timelines based on your life decisions. Using Google's Gemini AI, it generates personalized scenarios showing potential outcomes across emotional, financial, career, and relationship dimensions.
