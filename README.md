@@ -2,7 +2,7 @@
   <img src="client/public/icon.png" alt="Usaid Logo" width="200" />
 </p>
 
-# 🔮 Usaid - AI-Driven Cognitive Time Simulator
+# 🔮 Usaid - AI-Driven Cognitive Time Simulator 
  
 > **Experience the future before you choose it**
 
