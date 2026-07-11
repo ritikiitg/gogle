@@ -1,6 +1,6 @@
 <p align="center">
   <img src="client/public/icon.png" alt="Usaid Logo" width="200" />
-</p> 
+</p>
 
 # 🔮 Usaid - AI-Driven Cognitive Time Simulator 
 
