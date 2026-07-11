@@ -48,7 +48,7 @@ Usaid is an AI-powered decision-making tool that simulates multiple future timel
 
 **Frontend:** React, TypeScript, Vite, Zustand, React Query, Glassmorphism UI  
 **Backend:** Node.js, Express, Prisma (SQLite)  
-**AI:** Google Gemini 3 API (Gemini 2.5 for fallback)
+**AI:** Google Gemini 3.5 API (Gemini 3.1 for fallback)
 
 ## 🏗️ Architecture
 
